@@ -3,9 +3,6 @@ These are the projects I developed related to Machine Learning in University of 
 
 The projects completed during the 2nd year are written in Julia, and those from the 3rd are in Python (Jupyter Notebooks)
 
-The work will be updated during my years at College with the assignments related to this subject
-
-
 # Detailed work:
 1. Practicas20.jl: Iin this file, we completed a general exploration of the tools used in Machine Learning with the famous iris Dataset (first aproach to ML)
 2. P2.jl: A more complex work, where we developed a code that can detect if there is an eye in a picture
